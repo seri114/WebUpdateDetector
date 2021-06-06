@@ -1,0 +1,8 @@
+{
+  "telegram": {
+    "adminnotifytarget": "******",
+    "defaultnotifytargets": "******",
+    "defaultchannelid": "******",
+    "token": "******"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "sourceMap": true,
+  "include": [
+    ".eslintrc.js"
+  ]
+}
